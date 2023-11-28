@@ -1,5 +1,5 @@
-Aynul 
-Abedin
-Oyon
-fahmi
-suma
+Aynul   : 012
+Abedin  :014
+Oyon    :016
+fahmi   :018
+suma    : 099
